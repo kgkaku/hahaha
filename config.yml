@@ -1,6 +1,3 @@
-# Aparatchi M3U Generator Configuration
-
-# Required Python packages
 requirements:
   - requests>=2.31.0
   - beautifulsoup4>=4.12.0
@@ -15,17 +12,20 @@ website:
 stream:
   domains:
     - "gg.hls2.xyz"
+    - "cdn.hls2.xyz"
+    - "live.hls2.xyz"
   path_patterns:
     - "/live/{channel_id}/chunks.m3u8"
-    - "/hls/{channel_id}/stream.m3u8"
     - "/live/{channel_name}/chunks.m3u8"
+    - "/hls/{channel_id}/stream.m3u8"
+    - "/stream/{channel_id}.m3u8"
   session_param: "nimblesessionid"
 
 output:
   m3u: "aparatchi.m3u"
   json: "aparatchi.json"
   include_headers: true
-  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 filters:
   min_name_length: 2
@@ -35,3 +35,7 @@ filters:
     - "register"
     - "contact"
     - "about"
+    - "home"
+    - "terms"
+    - "privacy"
+    - "dmca"
