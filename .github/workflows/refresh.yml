@@ -2,8 +2,8 @@ name: Refresh
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Run every 6 hours
-  workflow_dispatch:  # Allow manual trigger
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
   push:
     branches: [ main ]
 
@@ -14,6 +14,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.PAT_TOKEN }}  # Use PAT for checkout too
     
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -23,6 +25,17 @@ jobs:
     - name: Run scraper
       run: python main.py
     
+    - name: Debug token presence
+      run: |
+        if [ -n "${{ secrets.PAT_TOKEN }}" ]; then
+          echo "✅ PAT_TOKEN is set"
+          echo "Token length: ${#PAT_TOKEN}"
+        else
+          echo "❌ PAT_TOKEN is NOT set"
+        fi
+      env:
+        PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+    
     - name: Commit and push if changed
       env:
         PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
@@ -30,9 +43,19 @@ jobs:
         git config --global user.name 'GitHub Action'
         git config --global user.email 'action@github.com'
         git add aparatchi.m3u aparatchi.json
+        
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
           git commit -m "Auto-refresh M3U [skip ci]"
-          git push https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
+          
+          # Method 1: Using token in URL
+          echo "Attempting push with token..."
+          git push https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }}.git HEAD:main || \
+          echo "Push failed with Method 1"
+          
+          # Method 2: Alternative format
+          echo "Attempting push with alternate format..."
+          git push https://${PAT_TOKEN}@github.com/${{ github.repository }}.git HEAD:main || \
+          echo "Push failed with Method 2"
         fi
