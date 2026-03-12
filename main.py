@@ -1,34 +1,29 @@
 #!/usr/bin/env python3
 """
-Aparatchi.com M3U Generator - Complete working script
+Aparatchi.com M3U Generator - Fixed version
 """
 
 import subprocess
 import sys
 import os
-import argparse
 
-def check_requirements(config_file='config.yml'):
-    """Check and install requirements from config"""
-    try:
-        with open(config_file, 'r') as f:
-            import yaml
-            config = yaml.safe_load(f)
-        
-        requirements = config.get('requirements', [])
-        for req in requirements:
-            try:
-                __import__(req.split('>=')[0].split('=')[0])
-            except ImportError:
-                print(f"📦 Installing {req}...")
-                subprocess.check_call([sys.executable, "-m", "pip", "install", "-q", req])
-    except Exception as e:
-        print(f"⚠️  Requirements check skipped: {e}")
+# First, install basic requirements without needing config
+def install_basic_requirements():
+    """Install minimal requirements first"""
+    basic_reqs = ['pyyaml', 'requests', 'beautifulsoup4', 'lxml']
+    
+    for req in basic_reqs:
+        try:
+            __import__(req.replace('-', '_'))
+            print(f"✅ {req} already installed")
+        except ImportError:
+            print(f"📦 Installing {req}...")
+            subprocess.check_call([sys.executable, "-m", "pip", "install", "-q", req])
 
-# Check requirements first
-check_requirements()
+# Install basic requirements first
+install_basic_requirements()
 
-# Now import everything
+# Now we can safely import
 import re
 import json
 import requests
@@ -41,18 +36,56 @@ import argparse
 
 class AparatchiScraper:
     def __init__(self, config_file='config.yml', debug=False, session_id=None):
-        with open(config_file, 'r') as f:
-            self.config = yaml.safe_load(f)
-        
         self.debug = debug
-        self.base_url = self.config['website']['url']
+        self.config = self._load_config(config_file)
+        self.base_url = self.config.get('website', {}).get('url', 'https://www.aparatchi.com')
         self.session = requests.Session()
         self.session.headers.update({
-            'User-Agent': self.config['output']['user_agent']
+            'User-Agent': self.config.get('output', {}).get('user_agent', 
+                'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36')
         })
         self.channels = []
-        self.session_id = session_id  # Allow manual session ID
+        self.session_id = session_id
         self.filters = self.config.get('filters', {})
+
+    def _load_config(self, config_file):
+        """Safely load config with defaults"""
+        default_config = {
+            'website': {'url': 'https://www.aparatchi.com', 'timeout': 10},
+            'stream': {
+                'domains': ['gg.hls2.xyz'],
+                'path_patterns': ['/live/{channel_id}/chunks.m3u8'],
+                'session_param': 'nimblesessionid'
+            },
+            'output': {
+                'm3u': 'aparatchi.m3u',
+                'json': 'aparatchi.json',
+                'include_headers': True,
+                'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+            },
+            'filters': {
+                'min_name_length': 2,
+                'max_name_length': 30,
+                'exclude_patterns': ['login', 'register', 'contact', 'about']
+            }
+        }
+        
+        try:
+            if os.path.exists(config_file):
+                with open(config_file, 'r') as f:
+                    user_config = yaml.safe_load(f)
+                    # Merge configs
+                    if user_config:
+                        for key, value in user_config.items():
+                            if key in default_config and isinstance(value, dict):
+                                default_config[key].update(value)
+                            else:
+                                default_config[key] = value
+        except Exception as e:
+            print(f"⚠️  Could not load config file: {e}")
+            print("   Using default configuration")
+        
+        return default_config
 
     def log(self, msg, level="info"):
         if self.debug:
@@ -67,7 +100,10 @@ class AparatchiScraper:
     def scrape(self):
         print("🔄 Fetching main page...")
         try:
-            response = self.session.get(self.base_url, timeout=10)
+            response = self.session.get(
+                self.base_url, 
+                timeout=self.config['website'].get('timeout', 10)
+            )
             html = response.text
         except Exception as e:
             print(f"❌ Failed to fetch page: {e}")
@@ -85,27 +121,13 @@ class AparatchiScraper:
         # Parse channels
         soup = BeautifulSoup(html, 'lxml')
         
-        # Method 1: Look in category sections
-        containers = soup.find_all(['div', 'section', 'ul'], 
-                                  class_=re.compile(r'category|menu|recommend|popular|grid', re.I))
+        # Look for channel links
+        all_links = soup.find_all('a', href=True)
         
-        for container in containers:
-            category = self._get_category_name(container)
-            links = container.find_all('a', href=True)
-            
-            for link in links:
-                channel = self._parse_channel(link, category)
-                if channel and self._should_include(channel):
-                    self._add_channel(channel)
-        
-        # Method 2: Look for any channel-like links if we found too few
-        if len(self.channels) < 10:
-            print("🔍 Using fallback channel detection...")
-            all_links = soup.find_all('a', href=True)
-            for link in all_links:
-                channel = self._parse_channel(link, "Uncategorized")
-                if channel and self._should_include(channel):
-                    self._add_channel(channel)
+        for link in all_links:
+            channel = self._parse_channel(link)
+            if channel and self._should_include(channel):
+                self._add_channel(channel)
         
         # Generate stream URLs
         print(f"📡 Generating stream URLs for {len(self.channels)} channels...")
@@ -118,67 +140,43 @@ class AparatchiScraper:
     def _extract_session_id(self, html):
         """Try multiple patterns to find session ID"""
         patterns = [
-            # Direct nimblesessionid parameter
             r'nimblesessionid=(\d+)',
             r'session[_-]id["\']?\s*[:=]\s*["\']?(\d+)["\']?',
             r'live[\/\\][^\/]+[\/\\]chunks\.m3u8\?nimblesessionid=(\d+)',
             r'[?&]nimblesessionid=(\d+)',
-            r'var\s+sessionId\s*=\s*["\']?(\d+)["\']?',
-            r'session["\']?\s*:\s*["\']?(\d+)["\']?',
-            # Look in script tags
-            r'<script[^>]*>([^<]*nimblesessionid[^<]*)</script>',
         ]
         
         for pattern in patterns:
-            # For script tag pattern, we need to extract differently
-            if pattern.startswith('<script'):
-                scripts = re.findall(pattern, html, re.IGNORECASE | re.DOTALL)
-                for script in scripts:
-                    id_match = re.search(r'nimblesessionid["\']?\s*[:=]\s*["\']?(\d+)["\']?', script)
-                    if id_match:
-                        return id_match.group(1)
-            else:
-                match = re.search(pattern, html, re.IGNORECASE)
-                if match:
-                    return match.group(1)
+            match = re.search(pattern, html, re.IGNORECASE)
+            if match:
+                return match.group(1)
         
-        # Try to find in network requests (if we had a headless browser, but we don't)
+        # Try to find in script tags
+        script_pattern = r'<script[^>]*>([^<]*nimblesessionid[^<]*)</script>'
+        scripts = re.findall(script_pattern, html, re.IGNORECASE | re.DOTALL)
+        for script in scripts:
+            id_match = re.search(r'nimblesessionid["\']?\s*[:=]\s*["\']?(\d+)["\']?', script)
+            if id_match:
+                return id_match.group(1)
+        
         return None
 
-    def _get_category_name(self, container):
-        """Extract category name from container"""
-        # Try headings
-        for heading in ['h2', 'h3', 'h4', 'span.title', 'div.title']:
-            elem = container.find(heading.split('.')[0], 
-                                 class_=heading.split('.')[1] if '.' in heading else None)
-            if elem:
-                return elem.get_text(strip=True)
-        
-        # Try data attributes
-        if container.get('data-category'):
-            return container['data-category']
-        
-        # Try class name
-        if container.get('class'):
-            for cls in container['class']:
-                if 'category' in cls.lower() or 'menu' in cls.lower():
-                    return cls.replace('category-', '').replace('menu-', '').title()
-        
-        return "Uncategorized"
-
-    def _parse_channel(self, link, category):
+    def _parse_channel(self, link):
         """Extract channel info from a link"""
         href = link.get('href', '')
         name = link.get_text(strip=True)
         
-        if not name or not href:
+        if not name or not href or len(name) > 50:
             return None
         
         # Clean up name
         name = re.sub(r'\s+', ' ', name).strip()
         
         # Skip obvious non-channels
-        if any(skip in name.lower() for skip in ['login', 'register', 'contact', 'about', 'home']):
+        skip_words = ['login', 'register', 'contact', 'about', 'home', 'terms', 
+                     'privacy', 'dmca', 'cookie', 'policy', 'facebook', 'twitter',
+                     'instagram', 'telegram', 'whatsapp', 'youtube']
+        if any(skip in name.lower() for skip in skip_words):
             return None
         
         # Extract logo
@@ -199,7 +197,7 @@ class AparatchiScraper:
         return {
             'name': name,
             'url': urljoin(self.base_url, href),
-            'category': category,
+            'category': 'Uncategorized',
             'logo': logo,
             'tvg_id': tvg_id,
             'tvg_name': name,
@@ -229,7 +227,7 @@ class AparatchiScraper:
     def _add_channel(self, channel):
         """Add channel if not duplicate"""
         for existing in self.channels:
-            if existing['name'] == channel['name']:
+            if existing['name'].lower() == channel['name'].lower():
                 return
         self.channels.append(channel)
 
@@ -238,8 +236,13 @@ class AparatchiScraper:
         channel_id = channel['tvg_id']
         channel_name = channel['name'].lower().replace(' ', '').replace('.', '')
         
-        for domain in self.config['stream']['domains']:
-            for pattern in self.config['stream']['path_patterns']:
+        stream_config = self.config.get('stream', {})
+        domains = stream_config.get('domains', ['gg.hls2.xyz'])
+        patterns = stream_config.get('path_patterns', ['/live/{channel_id}/chunks.m3u8'])
+        session_param = stream_config.get('session_param', 'nimblesessionid')
+        
+        for domain in domains:
+            for pattern in patterns:
                 try:
                     path = pattern.format(
                         channel_id=channel_id,
@@ -248,27 +251,18 @@ class AparatchiScraper:
                     url = f"https://{domain}{path}"
                     
                     if self.session_id:
-                        url += f"?{self.config['stream']['session_param']}={self.session_id}"
+                        url += f"?{session_param}={self.session_id}"
                     
                     channel['stream_url'] = url
                     return True
                 except:
                     continue
         
-        # Try with just the first part of the name
-        simple_name = channel_name.split('.')[0]
-        for domain in self.config['stream']['domains']:
-            url = f"https://{domain}/live/{simple_name}/chunks.m3u8"
-            if self.session_id:
-                url += f"?{self.config['stream']['session_param']}={self.session_id}"
-            channel['stream_url'] = url
-            return True
-        
         return False
 
     def save_m3u(self, filename=None):
         """Save channels to M3U file"""
-        filename = filename or self.config['output']['m3u']
+        filename = filename or self.config['output'].get('m3u', 'aparatchi.m3u')
         
         with open(filename, 'w', encoding='utf-8') as f:
             f.write("#EXTM3U\n")
@@ -278,42 +272,31 @@ class AparatchiScraper:
                 f.write(f"# Session ID: {self.session_id}\n")
             f.write(f"# Channels: {len(self.channels)}\n\n")
             
-            # Group by category
-            categories = {}
-            for ch in self.channels:
-                if ch['category'] not in categories:
-                    categories[ch['category']] = []
-                categories[ch['category']].append(ch)
+            valid_channels = [ch for ch in self.channels if ch.get('stream_url')]
             
-            for category, channels in categories.items():
-                f.write(f"# --- {category} ({len(channels)}) ---\n")
+            for ch in valid_channels:
+                # EXTINF line with attributes
+                extinf = f'#EXTINF:-1'
+                if ch['tvg_id']:
+                    extinf += f' tvg-id="{ch["tvg_id"]}"'
+                if ch.get('logo'):
+                    extinf += f' tvg-logo="{ch["logo"]}"'
+                extinf += f',{ch["name"]}\n'
+                f.write(extinf)
                 
-                for ch in channels:
-                    if not ch.get('stream_url'):
-                        continue
-                    
-                    # EXTINF line with attributes
-                    extinf = f'#EXTINF:-1'
-                    if ch['tvg_id']:
-                        extinf += f' tvg-id="{ch["tvg_id"]}"'
-                    if ch.get('logo'):
-                        extinf += f' tvg-logo="{ch["logo"]}"'
-                    extinf += f',{ch["name"]}\n'
-                    f.write(extinf)
-                    
-                    # Headers (if enabled)
-                    if self.config['output'].get('include_headers', True):
-                        f.write(f'#EXTVLCOPT:http-referrer={self.base_url}/\n')
-                        f.write(f'#EXTVLCOPT:http-user-agent={self.config["output"]["user_agent"]}\n')
-                    
-                    # Stream URL
-                    f.write(f'{ch["stream_url"]}\n\n')
+                # Headers (if enabled)
+                if self.config['output'].get('include_headers', True):
+                    f.write(f'#EXTVLCOPT:http-referrer={self.base_url}/\n')
+                    f.write(f'#EXTVLCOPT:http-user-agent={self.config["output"]["user_agent"]}\n')
+                
+                # Stream URL
+                f.write(f'{ch["stream_url"]}\n\n')
         
-        print(f"✅ Saved M3U: {filename}")
+        print(f"✅ Saved M3U: {filename} with {len(valid_channels)} channels")
 
     def save_json(self, filename=None):
         """Save channels to JSON file"""
-        filename = filename or self.config['output']['json']
+        filename = filename or self.config['output'].get('json', 'aparatchi.json')
         
         data = {
             'generated': datetime.now().isoformat(),
@@ -338,7 +321,7 @@ def main():
     args = parser.parse_args()
     
     print("╔════════════════════════════════════╗")
-    print("║   Aparatchi M3U Generator v2.0    ║")
+    print("║   Aparatchi M3U Generator v2.1    ║")
     print("╚════════════════════════════════════╝")
     
     scraper = AparatchiScraper(
