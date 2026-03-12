@@ -1,0 +1,1837 @@
+{
+  "generated": "2026-03-12T18:22:08.786571",
+  "session_id": null,
+  "total_channels": 183,
+  "channels": [
+    {
+      "name": "Skip to main content",
+      "url": "https://www.aparatchi.com#tm-main",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "skip.to.main.content",
+      "tvg_name": "Skip to main content",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/skip.to.main.content/chunks.m3u8"
+    },
+    {
+      "name": "ایران اینترنشنال",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-news-tv/iran-international-live",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/chanells-logo/Iran-International.svg",
+      "tvg_id": "ایران.اینترنشنال",
+      "tvg_name": "ایران اینترنشنال",
+      "tvg_logo": "https://www.aparatchi.com/images/chanells-logo/Iran-International.svg",
+      "stream_url": "https://gg.hls2.xyz/live/ایران.اینترنشنال/chunks.m3u8"
+    },
+    {
+      "name": "شبکه سه",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib3-live",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/chanells-logo/irib/irib-tv3.svg",
+      "tvg_id": "شبکه.سه",
+      "tvg_name": "شبکه سه",
+      "tvg_logo": "https://www.aparatchi.com/images/chanells-logo/irib/irib-tv3.svg",
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.سه/chunks.m3u8"
+    },
+    {
+      "name": "GEM Series",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-serial-tv/gem-series",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/chanells-logo/gem/gem-series.svg",
+      "tvg_id": "gem.series",
+      "tvg_name": "GEM Series",
+      "tvg_logo": "https://www.aparatchi.com/images/chanells-logo/gem/gem-series.svg",
+      "stream_url": "https://gg.hls2.xyz/live/gem.series/chunks.m3u8"
+    },
+    {
+      "name": "Username Reminder",
+      "url": "https://www.aparatchi.com/username-reminder",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "username.reminder",
+      "tvg_name": "Username Reminder",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/username.reminder/chunks.m3u8"
+    },
+    {
+      "name": "Password Reset",
+      "url": "https://www.aparatchi.com/password-reset",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "password.reset",
+      "tvg_name": "Password Reset",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/password.reset/chunks.m3u8"
+    },
+    {
+      "name": "Add TV Channel",
+      "url": "https://www.aparatchi.com/add-tv-channel",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "add.tv.channel",
+      "tvg_name": "Add TV Channel",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/add.tv.channel/chunks.m3u8"
+    },
+    {
+      "name": "Farsi",
+      "url": "https://www.aparatchi.com/iran-live-tv",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/svg-flag-country/iran.svg",
+      "tvg_id": "farsi",
+      "tvg_name": "Farsi",
+      "tvg_logo": "https://www.aparatchi.com/images/svg-flag-country/iran.svg",
+      "stream_url": "https://gg.hls2.xyz/live/farsi/chunks.m3u8"
+    },
+    {
+      "name": "Afghan",
+      "url": "https://www.aparatchi.com/afghan-live-tv",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/svg-flag-country/afghanistan.svg",
+      "tvg_id": "afghan",
+      "tvg_name": "Afghan",
+      "tvg_logo": "https://www.aparatchi.com/images/svg-flag-country/afghanistan.svg",
+      "stream_url": "https://gg.hls2.xyz/live/afghan/chunks.m3u8"
+    },
+    {
+      "name": "Kurdish",
+      "url": "https://www.aparatchi.com/kurdish-live-tv",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/svg-flag-country/kurdistan.svg",
+      "tvg_id": "kurdish",
+      "tvg_name": "Kurdish",
+      "tvg_logo": "https://www.aparatchi.com/images/svg-flag-country/kurdistan.svg",
+      "stream_url": "https://gg.hls2.xyz/live/kurdish/chunks.m3u8"
+    },
+    {
+      "name": "English",
+      "url": "https://www.aparatchi.com/english-live-tv",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/svg-flag-country/usa.svg",
+      "tvg_id": "english",
+      "tvg_name": "English",
+      "tvg_logo": "https://www.aparatchi.com/images/svg-flag-country/usa.svg",
+      "stream_url": "https://gg.hls2.xyz/live/english/chunks.m3u8"
+    },
+    {
+      "name": "Arabic",
+      "url": "https://www.aparatchi.com/arabic-live-tv",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/svg-flag-country/uae.svg",
+      "tvg_id": "arabic",
+      "tvg_name": "Arabic",
+      "tvg_logo": "https://www.aparatchi.com/images/svg-flag-country/uae.svg",
+      "stream_url": "https://gg.hls2.xyz/live/arabic/chunks.m3u8"
+    },
+    {
+      "name": "Tajik",
+      "url": "https://www.aparatchi.com/?view=category&id=16",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/svg-flag-country/tajikestan.svg",
+      "tvg_id": "tajik",
+      "tvg_name": "Tajik",
+      "tvg_logo": "https://www.aparatchi.com/images/svg-flag-country/tajikestan.svg",
+      "stream_url": "https://gg.hls2.xyz/live/tajik/chunks.m3u8"
+    },
+    {
+      "name": "Korean",
+      "url": "https://www.aparatchi.com/korean-live-tv",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/svg-flag-country/korea.svg",
+      "tvg_id": "korean",
+      "tvg_name": "Korean",
+      "tvg_logo": "https://www.aparatchi.com/images/svg-flag-country/korea.svg",
+      "stream_url": "https://gg.hls2.xyz/live/korean/chunks.m3u8"
+    },
+    {
+      "name": "Turkish",
+      "url": "https://www.aparatchi.com/turkish-live-tv",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/svg-flag-country/turkey.svg",
+      "tvg_id": "turkish",
+      "tvg_name": "Turkish",
+      "tvg_logo": "https://www.aparatchi.com/images/svg-flag-country/turkey.svg",
+      "stream_url": "https://gg.hls2.xyz/live/turkish/chunks.m3u8"
+    },
+    {
+      "name": "Indian",
+      "url": "https://www.aparatchi.com/indian-live-tv",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/svg-flag-country/india.svg",
+      "tvg_id": "indian",
+      "tvg_name": "Indian",
+      "tvg_logo": "https://www.aparatchi.com/images/svg-flag-country/india.svg",
+      "stream_url": "https://gg.hls2.xyz/live/indian/chunks.m3u8"
+    },
+    {
+      "name": "Spanish",
+      "url": "https://www.aparatchi.com/spanish-live-tv",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/svg-flag-country/spain.svg",
+      "tvg_id": "spanish",
+      "tvg_name": "Spanish",
+      "tvg_logo": "https://www.aparatchi.com/images/svg-flag-country/spain.svg",
+      "stream_url": "https://gg.hls2.xyz/live/spanish/chunks.m3u8"
+    },
+    {
+      "name": "French",
+      "url": "https://www.aparatchi.com/french-live-tv",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/svg-flag-country/france.svg",
+      "tvg_id": "french",
+      "tvg_name": "French",
+      "tvg_logo": "https://www.aparatchi.com/images/svg-flag-country/france.svg",
+      "stream_url": "https://gg.hls2.xyz/live/french/chunks.m3u8"
+    },
+    {
+      "name": "Azerbaijan",
+      "url": "https://www.aparatchi.com/azerbaijan-live-tv",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/svg-flag-country/Azerbaijan.svg",
+      "tvg_id": "azerbaijan",
+      "tvg_name": "Azerbaijan",
+      "tvg_logo": "https://www.aparatchi.com/images/svg-flag-country/Azerbaijan.svg",
+      "stream_url": "https://gg.hls2.xyz/live/azerbaijan/chunks.m3u8"
+    },
+    {
+      "name": "News",
+      "url": "https://www.aparatchi.com/news-live-tv",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/svg-categories/news.svg",
+      "tvg_id": "news",
+      "tvg_name": "News",
+      "tvg_logo": "https://www.aparatchi.com/images/svg-categories/news.svg",
+      "stream_url": "https://gg.hls2.xyz/live/news/chunks.m3u8"
+    },
+    {
+      "name": "Entertainment",
+      "url": "https://www.aparatchi.com/entertainment-live-tv",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/svg-categories/entertaiment.svg",
+      "tvg_id": "entertainment",
+      "tvg_name": "Entertainment",
+      "tvg_logo": "https://www.aparatchi.com/images/svg-categories/entertaiment.svg",
+      "stream_url": "https://gg.hls2.xyz/live/entertainment/chunks.m3u8"
+    },
+    {
+      "name": "Sport",
+      "url": "https://www.aparatchi.com/sport-live-tv",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/svg-categories/sport.svg",
+      "tvg_id": "sport",
+      "tvg_name": "Sport",
+      "tvg_logo": "https://www.aparatchi.com/images/svg-categories/sport.svg",
+      "stream_url": "https://gg.hls2.xyz/live/sport/chunks.m3u8"
+    },
+    {
+      "name": "Film",
+      "url": "https://www.aparatchi.com/film-live-tv",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/svg-categories/movie.svg",
+      "tvg_id": "film",
+      "tvg_name": "Film",
+      "tvg_logo": "https://www.aparatchi.com/images/svg-categories/movie.svg",
+      "stream_url": "https://gg.hls2.xyz/live/film/chunks.m3u8"
+    },
+    {
+      "name": "Series",
+      "url": "https://www.aparatchi.com/series-live-tv",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/svg-categories/series.svg",
+      "tvg_id": "series",
+      "tvg_name": "Series",
+      "tvg_logo": "https://www.aparatchi.com/images/svg-categories/series.svg",
+      "stream_url": "https://gg.hls2.xyz/live/series/chunks.m3u8"
+    },
+    {
+      "name": "Kids",
+      "url": "https://www.aparatchi.com/kids-live-tv",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/svg-categories/kids.svg",
+      "tvg_id": "kids",
+      "tvg_name": "Kids",
+      "tvg_logo": "https://www.aparatchi.com/images/svg-categories/kids.svg",
+      "stream_url": "https://gg.hls2.xyz/live/kids/chunks.m3u8"
+    },
+    {
+      "name": "Music",
+      "url": "https://www.aparatchi.com/music-live-tv",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/svg-categories/music.svg",
+      "tvg_id": "music",
+      "tvg_name": "Music",
+      "tvg_logo": "https://www.aparatchi.com/images/svg-categories/music.svg",
+      "stream_url": "https://gg.hls2.xyz/live/music/chunks.m3u8"
+    },
+    {
+      "name": "Scientific",
+      "url": "https://www.aparatchi.com/scientific-live-tv",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/svg-categories/sientific.svg",
+      "tvg_id": "scientific",
+      "tvg_name": "Scientific",
+      "tvg_logo": "https://www.aparatchi.com/images/svg-categories/sientific.svg",
+      "stream_url": "https://gg.hls2.xyz/live/scientific/chunks.m3u8"
+    },
+    {
+      "name": "IRIB",
+      "url": "https://www.aparatchi.com/irib-live-tv",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/svg-categories/irib.svg",
+      "tvg_id": "irib",
+      "tvg_name": "IRIB",
+      "tvg_logo": "https://www.aparatchi.com/images/svg-categories/irib.svg",
+      "stream_url": "https://gg.hls2.xyz/live/irib/chunks.m3u8"
+    },
+    {
+      "name": "IRIB Ostani",
+      "url": "https://www.aparatchi.com/irib-ostani-live-tv",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/svg-categories/irib.svg",
+      "tvg_id": "irib.ostani",
+      "tvg_name": "IRIB Ostani",
+      "tvg_logo": "https://www.aparatchi.com/images/svg-categories/irib.svg",
+      "stream_url": "https://gg.hls2.xyz/live/irib.ostani/chunks.m3u8"
+    },
+    {
+      "name": "Politics",
+      "url": "https://www.aparatchi.com/politics-live-tv",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/svg-categories/politics.svg",
+      "tvg_id": "politics",
+      "tvg_name": "Politics",
+      "tvg_logo": "https://www.aparatchi.com/images/svg-categories/politics.svg",
+      "stream_url": "https://gg.hls2.xyz/live/politics/chunks.m3u8"
+    },
+    {
+      "name": "Radio",
+      "url": "https://www.aparatchi.com/iranian-live-radio",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/svg-categories/radio.svg",
+      "tvg_id": "radio",
+      "tvg_name": "Radio",
+      "tvg_logo": "https://www.aparatchi.com/images/svg-categories/radio.svg",
+      "stream_url": "https://gg.hls2.xyz/live/radio/chunks.m3u8"
+    },
+    {
+      "name": "Religion",
+      "url": "https://www.aparatchi.com/religion-live-tv",
+      "category": "Uncategorized",
+      "logo": "https://www.aparatchi.com/images/svg-categories/religion.svg",
+      "tvg_id": "religion",
+      "tvg_name": "Religion",
+      "tvg_logo": "https://www.aparatchi.com/images/svg-categories/religion.svg",
+      "stream_url": "https://gg.hls2.xyz/live/religion/chunks.m3u8"
+    },
+    {
+      "name": "GEM TV",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.tv",
+      "tvg_name": "GEM TV",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.tv/chunks.m3u8"
+    },
+    {
+      "name": "GEM Series Plus",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-serial-tv/gem-series-plus",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.series.plus",
+      "tvg_name": "GEM Series Plus",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.series.plus/chunks.m3u8"
+    },
+    {
+      "name": "GEM Bollywood",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-bollywood",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.bollywood",
+      "tvg_name": "GEM Bollywood",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.bollywood/chunks.m3u8"
+    },
+    {
+      "name": "GEM River",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-serial-tv/gem-river",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.river",
+      "tvg_name": "GEM River",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.river/chunks.m3u8"
+    },
+    {
+      "name": "GEM Classic",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-classic",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.classic",
+      "tvg_name": "GEM Classic",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.classic/chunks.m3u8"
+    },
+    {
+      "name": "GEM Rubix Plus",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-serial-tv/gem-rubix-plus",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.rubix.plus",
+      "tvg_name": "GEM Rubix Plus",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.rubix.plus/chunks.m3u8"
+    },
+    {
+      "name": "GEM Rubix",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-serial-tv/gem-rubix",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.rubix",
+      "tvg_name": "GEM Rubix",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.rubix/chunks.m3u8"
+    },
+    {
+      "name": "GEM Drama",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-drama",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.drama",
+      "tvg_name": "GEM Drama",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.drama/chunks.m3u8"
+    },
+    {
+      "name": "GEM Junior",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-kids-tv/gem-junior",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.junior",
+      "tvg_name": "GEM Junior",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.junior/chunks.m3u8"
+    },
+    {
+      "name": "GEM Entertainment",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/gem-entertainment",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.entertainment",
+      "tvg_name": "GEM Entertainment",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.entertainment/chunks.m3u8"
+    },
+    {
+      "name": "GEM FIT",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/gem-fit",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.fit",
+      "tvg_name": "GEM FIT",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.fit/chunks.m3u8"
+    },
+    {
+      "name": "GEM Food",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/gem-food",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.food",
+      "tvg_name": "GEM Food",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.food/chunks.m3u8"
+    },
+    {
+      "name": "GEM TV Plus",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-serial-tv/gem-tv-plus",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.tv.plus",
+      "tvg_name": "GEM TV Plus",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.tv.plus/chunks.m3u8"
+    },
+    {
+      "name": "GEM Film",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-film",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.film",
+      "tvg_name": "GEM Film",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.film/chunks.m3u8"
+    },
+    {
+      "name": "GEM Drama Plus",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-drama-plus",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.drama.plus",
+      "tvg_name": "GEM Drama Plus",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.drama.plus/chunks.m3u8"
+    },
+    {
+      "name": "GEM River Plus",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-serial-tv/gem-river-plus",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.river.plus",
+      "tvg_name": "GEM River Plus",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.river.plus/chunks.m3u8"
+    },
+    {
+      "name": "GEM Nature",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-scientific-tv/gem-nature",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.nature",
+      "tvg_name": "GEM Nature",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.nature/chunks.m3u8"
+    },
+    {
+      "name": "GEM Life",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/gem-life",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.life",
+      "tvg_name": "GEM Life",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.life/chunks.m3u8"
+    },
+    {
+      "name": "GEM Kids",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-kids-tv/gem-kids",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.kids",
+      "tvg_name": "GEM Kids",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.kids/chunks.m3u8"
+    },
+    {
+      "name": "Gem Onyx",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/onyx",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.onyx",
+      "tvg_name": "Gem Onyx",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.onyx/chunks.m3u8"
+    },
+    {
+      "name": "GEM Comedy",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-comedy",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.comedy",
+      "tvg_name": "GEM Comedy",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.comedy/chunks.m3u8"
+    },
+    {
+      "name": "GEM MIFA",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-music-tv/gem-mifa-music",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.mifa",
+      "tvg_name": "GEM MIFA",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.mifa/chunks.m3u8"
+    },
+    {
+      "name": "GEM MIFA PLUS",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-music-tv/gem-mifa-plus-music",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.mifa.plus",
+      "tvg_name": "GEM MIFA PLUS",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.mifa.plus/chunks.m3u8"
+    },
+    {
+      "name": "GEM Pixel",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-pixel",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.pixel",
+      "tvg_name": "GEM Pixel",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.pixel/chunks.m3u8"
+    },
+    {
+      "name": "GEM Sport",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/gem-sport-live",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.sport",
+      "tvg_name": "GEM Sport",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.sport/chunks.m3u8"
+    },
+    {
+      "name": "GEM Documentary",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-scientific-tv/gem-documentary",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.documentary",
+      "tvg_name": "GEM Documentary",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.documentary/chunks.m3u8"
+    },
+    {
+      "name": "GEM 24B",
+      "url": "https://www.aparatchi.com/english-live-tv/english-music-tv/gem-24b",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "gem.24b",
+      "tvg_name": "GEM 24B",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/gem.24b/chunks.m3u8"
+    },
+    {
+      "name": "Persiana Sports 1",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/persiana-sports",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "persiana.sports.1",
+      "tvg_name": "Persiana Sports 1",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/persiana.sports.1/chunks.m3u8"
+    },
+    {
+      "name": "شبکه ورزش",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-varzesh-live-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.ورزش",
+      "tvg_name": "شبکه ورزش",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.ورزش/chunks.m3u8"
+    },
+    {
+      "name": "Persiana Cinema",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/persiana-cinema",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "persiana.cinema",
+      "tvg_name": "Persiana Cinema",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/persiana.cinema/chunks.m3u8"
+    },
+    {
+      "name": "تلویزیون پارس",
+      "url": "https://www.aparatchi.com/iran-live-tv/politics-live-tv/pars-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "تلویزیون.پارس",
+      "tvg_name": "تلویزیون پارس",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/تلویزیون.پارس/chunks.m3u8"
+    },
+    {
+      "name": "Tolo News",
+      "url": "https://www.aparatchi.com/afghan-live-tv/afghan-news-tv/tolo-news",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "tolo.news",
+      "tvg_name": "Tolo News",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/tolo.news/chunks.m3u8"
+    },
+    {
+      "name": "بی بی سی فارسی",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-news-tv/bbc-farsi-live-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "بی.بی.سی.فارسی",
+      "tvg_name": "بی بی سی فارسی",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/بی.بی.سی.فارسی/chunks.m3u8"
+    },
+    {
+      "name": "شبکه من و تو",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/manoto-live",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.من.و.تو",
+      "tvg_name": "شبکه من و تو",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.من.و.تو/chunks.m3u8"
+    },
+    {
+      "name": "Tolo TV",
+      "url": "https://www.aparatchi.com/afghan-live-tv/afghan-live-tv-entertainment/tolo-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "tolo.tv",
+      "tvg_name": "Tolo TV",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/tolo.tv/chunks.m3u8"
+    },
+    {
+      "name": "PMC",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-music-tv/pmc",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "pmc",
+      "tvg_name": "PMC",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/pmc/chunks.m3u8"
+    },
+    {
+      "name": "ایران فردا",
+      "url": "https://www.aparatchi.com/iran-live-tv/politics-live-tv/iran-e-farda",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "ایران.فردا",
+      "tvg_name": "ایران فردا",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/ایران.فردا/chunks.m3u8"
+    },
+    {
+      "name": "صدای آمریکا",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-news-tv/voa-persian",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "صدای.آمریکا",
+      "tvg_name": "صدای آمریکا",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/صدای.آمریکا/chunks.m3u8"
+    },
+    {
+      "name": "Varzish TV",
+      "url": "https://www.aparatchi.com/?view=article&id=352:varzish-tv&catid=16",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "varzish.tv",
+      "tvg_name": "Varzish TV",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/varzish.tv/chunks.m3u8"
+    },
+    {
+      "name": "ITN TV",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/itn-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "itn.tv",
+      "tvg_name": "ITN TV",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/itn.tv/chunks.m3u8"
+    },
+    {
+      "name": "Persiana Sports 2",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/persiana-sports2",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "persiana.sports.2",
+      "tvg_name": "Persiana Sports 2",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/persiana.sports.2/chunks.m3u8"
+    },
+    {
+      "name": "Khatereh TV",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-music-tv/khatereh-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "khatereh.tv",
+      "tvg_name": "Khatereh TV",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/khatereh.tv/chunks.m3u8"
+    },
+    {
+      "name": "نواهنگ",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-music-tv/navahang-live-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "نواهنگ",
+      "tvg_name": "نواهنگ",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/نواهنگ/chunks.m3u8"
+    },
+    {
+      "name": "رادیو ایران اینترنشنال",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-news-tv/iran-international-radio",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "رادیو.ایران.اینترنشنال",
+      "tvg_name": "رادیو ایران اینترنشنال",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/رادیو.ایران.اینترنشنال/chunks.m3u8"
+    },
+    {
+      "name": "Pro Sport International",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/pro-sport",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "pro.sport.international",
+      "tvg_name": "Pro Sport International",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/pro.sport.international/chunks.m3u8"
+    },
+    {
+      "name": "RTA Sports",
+      "url": "https://www.aparatchi.com/afghan-live-tv/afghan-live-tv-entertainment/rta-sports",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "rta.sports",
+      "tvg_name": "RTA Sports",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/rta.sports/chunks.m3u8"
+    },
+    {
+      "name": "Persiana Fight",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/persiana-fight",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "persiana.fight",
+      "tvg_name": "Persiana Fight",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/persiana.fight/chunks.m3u8"
+    },
+    {
+      "name": "تلوبیون ورزشی 1",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/telewebion-sport-1",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "تلوبیون.ورزشی.1",
+      "tvg_name": "تلوبیون ورزشی 1",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/تلوبیون.ورزشی.1/chunks.m3u8"
+    },
+    {
+      "name": "رادیو ورزش",
+      "url": "https://www.aparatchi.com/iran-live-tv/iranian-radio/radionama-varzesh",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "رادیو.ورزش",
+      "tvg_name": "رادیو ورزش",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/رادیو.ورزش/chunks.m3u8"
+    },
+    {
+      "name": "تلوبیون ورزشی 2",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/telewebion-sport-2",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "تلوبیون.ورزشی.2",
+      "tvg_name": "تلوبیون ورزشی 2",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/تلوبیون.ورزشی.2/chunks.m3u8"
+    },
+    {
+      "name": "تلوبیون ورزشی 3",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/telewebion-sport-3",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "تلوبیون.ورزشی.3",
+      "tvg_name": "تلوبیون ورزشی 3",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/تلوبیون.ورزشی.3/chunks.m3u8"
+    },
+    {
+      "name": "Persiana Sports 3",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/persiana-sports-3",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "persiana.sports.3",
+      "tvg_name": "Persiana Sports 3",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/persiana.sports.3/chunks.m3u8"
+    },
+    {
+      "name": "Persiana Sports 4",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/persiana-sports-4",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "persiana.sports.4",
+      "tvg_name": "Persiana Sports 4",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/persiana.sports.4/chunks.m3u8"
+    },
+    {
+      "name": "Persiana Series",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-serial-tv/persiana-series",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "persiana.series",
+      "tvg_name": "Persiana Series",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/persiana.series/chunks.m3u8"
+    },
+    {
+      "name": "Persiana Junior",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-kids-tv/persiana-junior",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "persiana.junior",
+      "tvg_name": "Persiana Junior",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/persiana.junior/chunks.m3u8"
+    },
+    {
+      "name": "Persiana Documentary",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-scientific-tv/persiana-documentary",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "persiana.documentary",
+      "tvg_name": "Persiana Documentary",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/persiana.documentary/chunks.m3u8"
+    },
+    {
+      "name": "Persiana Comedy",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/persiana-comedy",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "persiana.comedy",
+      "tvg_name": "Persiana Comedy",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/persiana.comedy/chunks.m3u8"
+    },
+    {
+      "name": "Persiana Korea",
+      "url": "https://www.aparatchi.com/korean-live-tv/korean-series/persiana-korea",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "persiana.korea",
+      "tvg_name": "Persiana Korea",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/persiana.korea/chunks.m3u8"
+    },
+    {
+      "name": "Persiana +",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/persiana-plus",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "persiana.",
+      "tvg_name": "Persiana +",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/persiana./chunks.m3u8"
+    },
+    {
+      "name": "Persiana Iranian",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/persiana-iranian",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "persiana.iranian",
+      "tvg_name": "Persiana Iranian",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/persiana.iranian/chunks.m3u8"
+    },
+    {
+      "name": "Persiana Nostalgia",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-music-tv/persiana-nostalgia",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "persiana.nostalgia",
+      "tvg_name": "Persiana Nostalgia",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/persiana.nostalgia/chunks.m3u8"
+    },
+    {
+      "name": "Persiana Family",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/persiana-family",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "persiana.family",
+      "tvg_name": "Persiana Family",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/persiana.family/chunks.m3u8"
+    },
+    {
+      "name": "Persiana Music",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-music-tv/persiana-music",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "persiana.music",
+      "tvg_name": "Persiana Music",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/persiana.music/chunks.m3u8"
+    },
+    {
+      "name": "Persiana Reality",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/persiana-reality",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "persiana.reality",
+      "tvg_name": "Persiana Reality",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/persiana.reality/chunks.m3u8"
+    },
+    {
+      "name": "4 Kurd HD",
+      "url": "https://www.aparatchi.com/kurdish-live-tv/kurdish-music-tv/4-kurd-hd",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "4.kurd.hd",
+      "tvg_name": "4 Kurd HD",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/4.kurd.hd/chunks.m3u8"
+    },
+    {
+      "name": "Persiana Sonnati",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-music-tv/persiana-sonnati",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "persiana.sonnati",
+      "tvg_name": "Persiana Sonnati",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/persiana.sonnati/chunks.m3u8"
+    },
+    {
+      "name": "Persiana Turkiye",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-serial-tv/persiana-turkiye",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "persiana.turkiye",
+      "tvg_name": "Persiana Turkiye",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/persiana.turkiye/chunks.m3u8"
+    },
+    {
+      "name": "Persiana KPOP",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-music-tv/persiana-kpop",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "persiana.kpop",
+      "tvg_name": "Persiana KPOP",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/persiana.kpop/chunks.m3u8"
+    },
+    {
+      "name": "Persiana Teen",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-kids-tv/persiana-teen",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "persiana.teen",
+      "tvg_name": "Persiana Teen",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/persiana.teen/chunks.m3u8"
+    },
+    {
+      "name": "Persiana Medical",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-scientific-tv/persiana-medical",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "persiana.medical",
+      "tvg_name": "Persiana Medical",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/persiana.medical/chunks.m3u8"
+    },
+    {
+      "name": "Persiana Travel",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/persiana-travel",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "persiana.travel",
+      "tvg_name": "Persiana Travel",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/persiana.travel/chunks.m3u8"
+    },
+    {
+      "name": "شبکه خبر",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/shabakeh-khabar-live",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.خبر",
+      "tvg_name": "شبکه خبر",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.خبر/chunks.m3u8"
+    },
+    {
+      "name": "شبکه یک",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib1-live",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.یک",
+      "tvg_name": "شبکه یک",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.یک/chunks.m3u8"
+    },
+    {
+      "name": "شبکه دو",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib2-live",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.دو",
+      "tvg_name": "شبکه دو",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.دو/chunks.m3u8"
+    },
+    {
+      "name": "شبکه نسیم",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-nasim-live",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.نسیم",
+      "tvg_name": "شبکه نسیم",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.نسیم/chunks.m3u8"
+    },
+    {
+      "name": "شبکه تماشا",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-tamasha",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.تماشا",
+      "tvg_name": "شبکه تماشا",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.تماشا/chunks.m3u8"
+    },
+    {
+      "name": "شبکه نمایش",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-namayesh",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.نمایش",
+      "tvg_name": "شبکه نمایش",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.نمایش/chunks.m3u8"
+    },
+    {
+      "name": "شبکه ۴",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-tv4",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.۴",
+      "tvg_name": "شبکه ۴",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.۴/chunks.m3u8"
+    },
+    {
+      "name": "شبکه پویا",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-pooya",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.پویا",
+      "tvg_name": "شبکه پویا",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.پویا/chunks.m3u8"
+    },
+    {
+      "name": "iFilm Persian 2",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/ifilm-persian-2",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "ifilm.persian.2",
+      "tvg_name": "iFilm Persian 2",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/ifilm.persian.2/chunks.m3u8"
+    },
+    {
+      "name": "شبکه قرآن",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-quran",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.قرآن",
+      "tvg_name": "شبکه قرآن",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.قرآن/chunks.m3u8"
+    },
+    {
+      "name": "شبکه مستند",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-mostanad",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.مستند",
+      "tvg_name": "شبکه مستند",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.مستند/chunks.m3u8"
+    },
+    {
+      "name": "شبکه خبر ۲",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irinn-2-shabakeh-khabar-2",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.خبر.۲",
+      "tvg_name": "شبکه خبر ۲",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.خبر.۲/chunks.m3u8"
+    },
+    {
+      "name": "سپهر",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-sepehr",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "سپهر",
+      "tvg_name": "سپهر",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/سپهر/chunks.m3u8"
+    },
+    {
+      "name": "شبکه افق",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-ofogh",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.افق",
+      "tvg_name": "شبکه افق",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.افق/chunks.m3u8"
+    },
+    {
+      "name": "شبکه امید",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-omid",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.امید",
+      "tvg_name": "شبکه امید",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.امید/chunks.m3u8"
+    },
+    {
+      "name": "شبکه آموزش",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-amoozesh",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.آموزش",
+      "tvg_name": "شبکه آموزش",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.آموزش/chunks.m3u8"
+    },
+    {
+      "name": "شبکه سلامت",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-salamat",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.سلامت",
+      "tvg_name": "شبکه سلامت",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.سلامت/chunks.m3u8"
+    },
+    {
+      "name": "شبکه سهند",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-sahand-live-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.سهند",
+      "tvg_name": "شبکه سهند",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.سهند/chunks.m3u8"
+    },
+    {
+      "name": "شبکه اصفهان",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-esfahan-live-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.اصفهان",
+      "tvg_name": "شبکه اصفهان",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.اصفهان/chunks.m3u8"
+    },
+    {
+      "name": "شبکه باران",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-baran-live-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.باران",
+      "tvg_name": "شبکه باران",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.باران/chunks.m3u8"
+    },
+    {
+      "name": "شبکه خوزستان",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-khoozestan-live-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.خوزستان",
+      "tvg_name": "شبکه خوزستان",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.خوزستان/chunks.m3u8"
+    },
+    {
+      "name": "شبکه کرمان",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-kerman-live-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.کرمان",
+      "tvg_name": "شبکه کرمان",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.کرمان/chunks.m3u8"
+    },
+    {
+      "name": "شبکه تبرستان",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-tabarestan-live",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.تبرستان",
+      "tvg_name": "شبکه تبرستان",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.تبرستان/chunks.m3u8"
+    },
+    {
+      "name": "شبکه آفتاب",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-aftab-live-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.آفتاب",
+      "tvg_name": "شبکه آفتاب",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.آفتاب/chunks.m3u8"
+    },
+    {
+      "name": "شبکه فارس",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-fars-live-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.فارس",
+      "tvg_name": "شبکه فارس",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.فارس/chunks.m3u8"
+    },
+    {
+      "name": "شبکه قزوین",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-qazvin-live-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.قزوین",
+      "tvg_name": "شبکه قزوین",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.قزوین/chunks.m3u8"
+    },
+    {
+      "name": "شبکه افلاک",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-aflak-live-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.افلاک",
+      "tvg_name": "شبکه افلاک",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.افلاک/chunks.m3u8"
+    },
+    {
+      "name": "شبکه آذربایجان غربی",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-urmia",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.آذربایجان.غربی",
+      "tvg_name": "شبکه آذربایجان غربی",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.آذربایجان.غربی/chunks.m3u8"
+    },
+    {
+      "name": "شبکه آبادان",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-abadan-live-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.آبادان",
+      "tvg_name": "شبکه آبادان",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.آبادان/chunks.m3u8"
+    },
+    {
+      "name": "شبکه تهران",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-tehran-live-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.تهران",
+      "tvg_name": "شبکه تهران",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.تهران/chunks.m3u8"
+    },
+    {
+      "name": "شبکه خراسان رضوی",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-khorasan-razavi-live-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.خراسان.رضوی",
+      "tvg_name": "شبکه خراسان رضوی",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.خراسان.رضوی/chunks.m3u8"
+    },
+    {
+      "name": "شبکه کردستان",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-kurdistan",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.کردستان",
+      "tvg_name": "شبکه کردستان",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.کردستان/chunks.m3u8"
+    },
+    {
+      "name": "شبکه تابان",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-yazd",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.تابان",
+      "tvg_name": "شبکه تابان",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.تابان/chunks.m3u8"
+    },
+    {
+      "name": "شبکه سبلان",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-ardabil",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.سبلان",
+      "tvg_name": "شبکه سبلان",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.سبلان/chunks.m3u8"
+    },
+    {
+      "name": "شبکه خلیج فارس",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-khalij-e-fars",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.خلیج.فارس",
+      "tvg_name": "شبکه خلیج فارس",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.خلیج.فارس/chunks.m3u8"
+    },
+    {
+      "name": "شبکه زاگرس",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-kermanshah",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.زاگرس",
+      "tvg_name": "شبکه زاگرس",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.زاگرس/chunks.m3u8"
+    },
+    {
+      "name": "شبکه نور",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-qom",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.نور",
+      "tvg_name": "شبکه نور",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.نور/chunks.m3u8"
+    },
+    {
+      "name": "شبکه اشراق",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-zanjan",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.اشراق",
+      "tvg_name": "شبکه اشراق",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.اشراق/chunks.m3u8"
+    },
+    {
+      "name": "شبکه مهاباد",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-mahabad",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.مهاباد",
+      "tvg_name": "شبکه مهاباد",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.مهاباد/chunks.m3u8"
+    },
+    {
+      "name": "شبکه گلستان",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-golestan",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.گلستان",
+      "tvg_name": "شبکه گلستان",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.گلستان/chunks.m3u8"
+    },
+    {
+      "name": "شبکه البرز",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-alborz",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.البرز",
+      "tvg_name": "شبکه البرز",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.البرز/chunks.m3u8"
+    },
+    {
+      "name": "شبکه بوشهر",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-bushehr",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.بوشهر",
+      "tvg_name": "شبکه بوشهر",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.بوشهر/chunks.m3u8"
+    },
+    {
+      "name": "شبکه هامون",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-zahedan",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.هامون",
+      "tvg_name": "شبکه هامون",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.هامون/chunks.m3u8"
+    },
+    {
+      "name": "شبکه خاوران",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-khorasan-jonoobi",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.خاوران",
+      "tvg_name": "شبکه خاوران",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.خاوران/chunks.m3u8"
+    },
+    {
+      "name": "شبکه کیش",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-kish",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.کیش",
+      "tvg_name": "شبکه کیش",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.کیش/chunks.m3u8"
+    },
+    {
+      "name": "شبکه اترک",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-khorasan-shomali",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.اترک",
+      "tvg_name": "شبکه اترک",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.اترک/chunks.m3u8"
+    },
+    {
+      "name": "شبکه دنا",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-yasouj",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.دنا",
+      "tvg_name": "شبکه دنا",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.دنا/chunks.m3u8"
+    },
+    {
+      "name": "شبکه همدان",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-hamedan",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.همدان",
+      "tvg_name": "شبکه همدان",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.همدان/chunks.m3u8"
+    },
+    {
+      "name": "شبکه ایلام",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-ilam",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.ایلام",
+      "tvg_name": "شبکه ایلام",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.ایلام/chunks.m3u8"
+    },
+    {
+      "name": "شبکه سمنان",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-semnan",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.سمنان",
+      "tvg_name": "شبکه سمنان",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.سمنان/chunks.m3u8"
+    },
+    {
+      "name": "شبکه جهان بین",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-chaharmahal-and-bakhtiari",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.جهان.بین",
+      "tvg_name": "شبکه جهان بین",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.جهان.بین/chunks.m3u8"
+    },
+    {
+      "name": "شبکه جهانی نور",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-religious-tv/nour-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.جهانی.نور",
+      "tvg_name": "شبکه جهانی نور",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.جهانی.نور/chunks.m3u8"
+    },
+    {
+      "name": "Shabakeh 7",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-religious-tv/shabakeh-7",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "shabakeh.7",
+      "tvg_name": "Shabakeh 7",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/shabakeh.7/chunks.m3u8"
+    },
+    {
+      "name": "Kurd Channel",
+      "url": "https://www.aparatchi.com/kurdish-live-tv/kurdish-news-tv/kurd-channel",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "kurd.channel",
+      "tvg_name": "Kurd Channel",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/kurd.channel/chunks.m3u8"
+    },
+    {
+      "name": "Zed TV",
+      "url": "https://www.aparatchi.com/iran-live-tv/politics-live-tv/zed-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "zed.tv",
+      "tvg_name": "Zed TV",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/zed.tv/chunks.m3u8"
+    },
+    {
+      "name": "انقلاب ملی",
+      "url": "https://www.aparatchi.com/iran-live-tv/politics-live-tv/iran-national-revolution-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "انقلاب.ملی",
+      "tvg_name": "انقلاب ملی",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/انقلاب.ملی/chunks.m3u8"
+    },
+    {
+      "name": "پالس‌ میدیا",
+      "url": "https://www.aparatchi.com/iran-live-tv/politics-live-tv/pulse-media",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "پالس.میدیا",
+      "tvg_name": "پالس‌ میدیا",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/پالس.میدیا/chunks.m3u8"
+    },
+    {
+      "name": "خبربین",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-news-tv/khabarbin",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "خبربین",
+      "tvg_name": "خبربین",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/خبربین/chunks.m3u8"
+    },
+    {
+      "name": "رادیو شادی",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-music-tv/radio-shadi",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "رادیو.شادی",
+      "tvg_name": "رادیو شادی",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/رادیو.شادی/chunks.m3u8"
+    },
+    {
+      "name": "سلطان موزیک",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-music-tv/sultan-music",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "سلطان.موزیک",
+      "tvg_name": "سلطان موزیک",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/سلطان.موزیک/chunks.m3u8"
+    },
+    {
+      "name": "Iran Independent",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/iran-independent",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "iran.independent",
+      "tvg_name": "Iran Independent",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/iran.independent/chunks.m3u8"
+    },
+    {
+      "name": "Radio Donya",
+      "url": "https://www.aparatchi.com/iran-live-tv/iranian-radio/radio-donya",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "radio.donya",
+      "tvg_name": "Radio Donya",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/radio.donya/chunks.m3u8"
+    },
+    {
+      "name": "Setareh TV",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/setareh-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "setareh.tv",
+      "tvg_name": "Setareh TV",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/setareh.tv/chunks.m3u8"
+    },
+    {
+      "name": "Didaniha",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/didaniha",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "didaniha",
+      "tvg_name": "Didaniha",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/didaniha/chunks.m3u8"
+    },
+    {
+      "name": "Az Star TV",
+      "url": "https://www.aparatchi.com/azerbaijan-live-tv/azerbaijan-music-tv/az-star-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "az.star.tv",
+      "tvg_name": "Az Star TV",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/az.star.tv/chunks.m3u8"
+    },
+    {
+      "name": "Tojikiston TV",
+      "url": "https://www.aparatchi.com/?view=article&id=467:tojikiston-tv&catid=16",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "tojikiston.tv",
+      "tvg_name": "Tojikiston TV",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/tojikiston.tv/chunks.m3u8"
+    },
+    {
+      "name": "Dushanbe TV",
+      "url": "https://www.aparatchi.com/?view=article&id=466:dushanbe-tv&catid=16",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "dushanbe.tv",
+      "tvg_name": "Dushanbe TV",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/dushanbe.tv/chunks.m3u8"
+    },
+    {
+      "name": "Waar",
+      "url": "https://www.aparatchi.com/kurdish-live-tv/kurdish-music-tv/waar",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "waar",
+      "tvg_name": "Waar",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/waar/chunks.m3u8"
+    },
+    {
+      "name": "Mohabat TV",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-religious-tv/mohabat-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "mohabat.tv",
+      "tvg_name": "Mohabat TV",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/mohabat.tv/chunks.m3u8"
+    },
+    {
+      "name": "Datis TV",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/datis-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "datis.tv",
+      "tvg_name": "Datis TV",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/datis.tv/chunks.m3u8"
+    },
+    {
+      "name": "Nahade Azadi",
+      "url": "https://www.aparatchi.com/iran-live-tv/politics-live-tv/nahade-azadi",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "nahade.azadi",
+      "tvg_name": "Nahade Azadi",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/nahade.azadi/chunks.m3u8"
+    },
+    {
+      "name": "Ekran Movies",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-serial-tv/ekran-movies",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "ekran.movies",
+      "tvg_name": "Ekran Movies",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/ekran.movies/chunks.m3u8"
+    },
+    {
+      "name": "Zarok TV",
+      "url": "https://www.aparatchi.com/kurdish-live-tv/kurdish-kids-tv/zarok-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "zarok.tv",
+      "tvg_name": "Zarok TV",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/zarok.tv/chunks.m3u8"
+    },
+    {
+      "name": "تلویزیون چکاد",
+      "url": "https://www.aparatchi.com/afghan-live-tv/afghan-live-tv-entertainment/chekad-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "تلویزیون.چکاد",
+      "tvg_name": "تلویزیون چکاد",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/تلویزیون.چکاد/chunks.m3u8"
+    },
+    {
+      "name": "Noor TV",
+      "url": "https://www.aparatchi.com/afghan-live-tv/afghan-education-tv/noor-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "noor.tv",
+      "tvg_name": "Noor TV",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/noor.tv/chunks.m3u8"
+    },
+    {
+      "name": "RTA Education",
+      "url": "https://www.aparatchi.com/afghan-live-tv/afghan-education-tv/rta-education",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "rta.education",
+      "tvg_name": "RTA Education",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/rta.education/chunks.m3u8"
+    },
+    {
+      "name": "Afghan Theatre",
+      "url": "https://www.aparatchi.com/afghan-live-tv/afghan-live-tv-entertainment/afghan-theatre",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "afghan.theatre",
+      "tvg_name": "Afghan Theatre",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/afghan.theatre/chunks.m3u8"
+    },
+    {
+      "name": "Ravi TV",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-serial-tv/ravi-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "ravi.tv",
+      "tvg_name": "Ravi TV",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/ravi.tv/chunks.m3u8"
+    },
+    {
+      "name": "Iman TV",
+      "url": "https://www.aparatchi.com/afghan-live-tv/afghan-live-tv-entertainment/iman-tv",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "iman.tv",
+      "tvg_name": "Iman TV",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/iman.tv/chunks.m3u8"
+    },
+    {
+      "name": "Radio Hamrah",
+      "url": "https://www.aparatchi.com/iran-live-tv/iranian-radio/radio-hamrah",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "radio.hamrah",
+      "tvg_name": "Radio Hamrah",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/radio.hamrah/chunks.m3u8"
+    }
+  ]
+}

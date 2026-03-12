@@ -1,0 +1,920 @@
+#EXTM3U
+#PLAYLIST: Aparatchi.com Channels
+# Updated: 2026-03-12 18:22:08
+# Channels: 183
+
+#EXTINF:-1 tvg-id="skip.to.main.content",Skip to main content
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/skip.to.main.content/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ایران.اینترنشنال" tvg-logo="https://www.aparatchi.com/images/chanells-logo/Iran-International.svg",ایران اینترنشنال
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/ایران.اینترنشنال/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.سه" tvg-logo="https://www.aparatchi.com/images/chanells-logo/irib/irib-tv3.svg",شبکه سه
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.سه/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.series" tvg-logo="https://www.aparatchi.com/images/chanells-logo/gem/gem-series.svg",GEM Series
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.series/chunks.m3u8
+
+#EXTINF:-1 tvg-id="username.reminder",Username Reminder
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/username.reminder/chunks.m3u8
+
+#EXTINF:-1 tvg-id="password.reset",Password Reset
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/password.reset/chunks.m3u8
+
+#EXTINF:-1 tvg-id="add.tv.channel",Add TV Channel
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/add.tv.channel/chunks.m3u8
+
+#EXTINF:-1 tvg-id="farsi" tvg-logo="https://www.aparatchi.com/images/svg-flag-country/iran.svg",Farsi
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/farsi/chunks.m3u8
+
+#EXTINF:-1 tvg-id="afghan" tvg-logo="https://www.aparatchi.com/images/svg-flag-country/afghanistan.svg",Afghan
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/afghan/chunks.m3u8
+
+#EXTINF:-1 tvg-id="kurdish" tvg-logo="https://www.aparatchi.com/images/svg-flag-country/kurdistan.svg",Kurdish
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/kurdish/chunks.m3u8
+
+#EXTINF:-1 tvg-id="english" tvg-logo="https://www.aparatchi.com/images/svg-flag-country/usa.svg",English
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/english/chunks.m3u8
+
+#EXTINF:-1 tvg-id="arabic" tvg-logo="https://www.aparatchi.com/images/svg-flag-country/uae.svg",Arabic
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/arabic/chunks.m3u8
+
+#EXTINF:-1 tvg-id="tajik" tvg-logo="https://www.aparatchi.com/images/svg-flag-country/tajikestan.svg",Tajik
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/tajik/chunks.m3u8
+
+#EXTINF:-1 tvg-id="korean" tvg-logo="https://www.aparatchi.com/images/svg-flag-country/korea.svg",Korean
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/korean/chunks.m3u8
+
+#EXTINF:-1 tvg-id="turkish" tvg-logo="https://www.aparatchi.com/images/svg-flag-country/turkey.svg",Turkish
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/turkish/chunks.m3u8
+
+#EXTINF:-1 tvg-id="indian" tvg-logo="https://www.aparatchi.com/images/svg-flag-country/india.svg",Indian
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/indian/chunks.m3u8
+
+#EXTINF:-1 tvg-id="spanish" tvg-logo="https://www.aparatchi.com/images/svg-flag-country/spain.svg",Spanish
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/spanish/chunks.m3u8
+
+#EXTINF:-1 tvg-id="french" tvg-logo="https://www.aparatchi.com/images/svg-flag-country/france.svg",French
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/french/chunks.m3u8
+
+#EXTINF:-1 tvg-id="azerbaijan" tvg-logo="https://www.aparatchi.com/images/svg-flag-country/Azerbaijan.svg",Azerbaijan
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/azerbaijan/chunks.m3u8
+
+#EXTINF:-1 tvg-id="news" tvg-logo="https://www.aparatchi.com/images/svg-categories/news.svg",News
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/news/chunks.m3u8
+
+#EXTINF:-1 tvg-id="entertainment" tvg-logo="https://www.aparatchi.com/images/svg-categories/entertaiment.svg",Entertainment
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/entertainment/chunks.m3u8
+
+#EXTINF:-1 tvg-id="sport" tvg-logo="https://www.aparatchi.com/images/svg-categories/sport.svg",Sport
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/sport/chunks.m3u8
+
+#EXTINF:-1 tvg-id="film" tvg-logo="https://www.aparatchi.com/images/svg-categories/movie.svg",Film
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/film/chunks.m3u8
+
+#EXTINF:-1 tvg-id="series" tvg-logo="https://www.aparatchi.com/images/svg-categories/series.svg",Series
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/series/chunks.m3u8
+
+#EXTINF:-1 tvg-id="kids" tvg-logo="https://www.aparatchi.com/images/svg-categories/kids.svg",Kids
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/kids/chunks.m3u8
+
+#EXTINF:-1 tvg-id="music" tvg-logo="https://www.aparatchi.com/images/svg-categories/music.svg",Music
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/music/chunks.m3u8
+
+#EXTINF:-1 tvg-id="scientific" tvg-logo="https://www.aparatchi.com/images/svg-categories/sientific.svg",Scientific
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/scientific/chunks.m3u8
+
+#EXTINF:-1 tvg-id="irib" tvg-logo="https://www.aparatchi.com/images/svg-categories/irib.svg",IRIB
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/irib/chunks.m3u8
+
+#EXTINF:-1 tvg-id="irib.ostani" tvg-logo="https://www.aparatchi.com/images/svg-categories/irib.svg",IRIB Ostani
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/irib.ostani/chunks.m3u8
+
+#EXTINF:-1 tvg-id="politics" tvg-logo="https://www.aparatchi.com/images/svg-categories/politics.svg",Politics
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/politics/chunks.m3u8
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://www.aparatchi.com/images/svg-categories/radio.svg",Radio
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/radio/chunks.m3u8
+
+#EXTINF:-1 tvg-id="religion" tvg-logo="https://www.aparatchi.com/images/svg-categories/religion.svg",Religion
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/religion/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.tv",GEM TV
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.tv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.series.plus",GEM Series Plus
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.series.plus/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.bollywood",GEM Bollywood
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.bollywood/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.river",GEM River
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.river/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.classic",GEM Classic
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.classic/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.rubix.plus",GEM Rubix Plus
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.rubix.plus/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.rubix",GEM Rubix
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.rubix/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.drama",GEM Drama
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.drama/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.junior",GEM Junior
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.junior/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.entertainment",GEM Entertainment
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.entertainment/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.fit",GEM FIT
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.fit/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.food",GEM Food
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.food/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.tv.plus",GEM TV Plus
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.tv.plus/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.film",GEM Film
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.film/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.drama.plus",GEM Drama Plus
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.drama.plus/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.river.plus",GEM River Plus
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.river.plus/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.nature",GEM Nature
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.nature/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.life",GEM Life
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.life/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.kids",GEM Kids
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.kids/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.onyx",Gem Onyx
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.onyx/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.comedy",GEM Comedy
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.comedy/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.mifa",GEM MIFA
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.mifa/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.mifa.plus",GEM MIFA PLUS
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.mifa.plus/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.pixel",GEM Pixel
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.pixel/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.sport",GEM Sport
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.sport/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.documentary",GEM Documentary
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.documentary/chunks.m3u8
+
+#EXTINF:-1 tvg-id="gem.24b",GEM 24B
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/gem.24b/chunks.m3u8
+
+#EXTINF:-1 tvg-id="persiana.sports.1",Persiana Sports 1
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/persiana.sports.1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.ورزش",شبکه ورزش
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.ورزش/chunks.m3u8
+
+#EXTINF:-1 tvg-id="persiana.cinema",Persiana Cinema
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/persiana.cinema/chunks.m3u8
+
+#EXTINF:-1 tvg-id="تلویزیون.پارس",تلویزیون پارس
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/تلویزیون.پارس/chunks.m3u8
+
+#EXTINF:-1 tvg-id="tolo.news",Tolo News
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/tolo.news/chunks.m3u8
+
+#EXTINF:-1 tvg-id="بی.بی.سی.فارسی",بی بی سی فارسی
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/بی.بی.سی.فارسی/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.من.و.تو",شبکه من و تو
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.من.و.تو/chunks.m3u8
+
+#EXTINF:-1 tvg-id="tolo.tv",Tolo TV
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/tolo.tv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="pmc",PMC
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/pmc/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ایران.فردا",ایران فردا
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/ایران.فردا/chunks.m3u8
+
+#EXTINF:-1 tvg-id="صدای.آمریکا",صدای آمریکا
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/صدای.آمریکا/chunks.m3u8
+
+#EXTINF:-1 tvg-id="varzish.tv",Varzish TV
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/varzish.tv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="itn.tv",ITN TV
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/itn.tv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="persiana.sports.2",Persiana Sports 2
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/persiana.sports.2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="khatereh.tv",Khatereh TV
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/khatereh.tv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="نواهنگ",نواهنگ
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/نواهنگ/chunks.m3u8
+
+#EXTINF:-1 tvg-id="رادیو.ایران.اینترنشنال",رادیو ایران اینترنشنال
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/رادیو.ایران.اینترنشنال/chunks.m3u8
+
+#EXTINF:-1 tvg-id="pro.sport.international",Pro Sport International
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/pro.sport.international/chunks.m3u8
+
+#EXTINF:-1 tvg-id="rta.sports",RTA Sports
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/rta.sports/chunks.m3u8
+
+#EXTINF:-1 tvg-id="persiana.fight",Persiana Fight
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/persiana.fight/chunks.m3u8
+
+#EXTINF:-1 tvg-id="تلوبیون.ورزشی.1",تلوبیون ورزشی 1
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/تلوبیون.ورزشی.1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="رادیو.ورزش",رادیو ورزش
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/رادیو.ورزش/chunks.m3u8
+
+#EXTINF:-1 tvg-id="تلوبیون.ورزشی.2",تلوبیون ورزشی 2
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/تلوبیون.ورزشی.2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="تلوبیون.ورزشی.3",تلوبیون ورزشی 3
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/تلوبیون.ورزشی.3/chunks.m3u8
+
+#EXTINF:-1 tvg-id="persiana.sports.3",Persiana Sports 3
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/persiana.sports.3/chunks.m3u8
+
+#EXTINF:-1 tvg-id="persiana.sports.4",Persiana Sports 4
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/persiana.sports.4/chunks.m3u8
+
+#EXTINF:-1 tvg-id="persiana.series",Persiana Series
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/persiana.series/chunks.m3u8
+
+#EXTINF:-1 tvg-id="persiana.junior",Persiana Junior
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/persiana.junior/chunks.m3u8
+
+#EXTINF:-1 tvg-id="persiana.documentary",Persiana Documentary
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/persiana.documentary/chunks.m3u8
+
+#EXTINF:-1 tvg-id="persiana.comedy",Persiana Comedy
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/persiana.comedy/chunks.m3u8
+
+#EXTINF:-1 tvg-id="persiana.korea",Persiana Korea
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/persiana.korea/chunks.m3u8
+
+#EXTINF:-1 tvg-id="persiana.",Persiana +
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/persiana./chunks.m3u8
+
+#EXTINF:-1 tvg-id="persiana.iranian",Persiana Iranian
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/persiana.iranian/chunks.m3u8
+
+#EXTINF:-1 tvg-id="persiana.nostalgia",Persiana Nostalgia
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/persiana.nostalgia/chunks.m3u8
+
+#EXTINF:-1 tvg-id="persiana.family",Persiana Family
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/persiana.family/chunks.m3u8
+
+#EXTINF:-1 tvg-id="persiana.music",Persiana Music
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/persiana.music/chunks.m3u8
+
+#EXTINF:-1 tvg-id="persiana.reality",Persiana Reality
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/persiana.reality/chunks.m3u8
+
+#EXTINF:-1 tvg-id="4.kurd.hd",4 Kurd HD
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/4.kurd.hd/chunks.m3u8
+
+#EXTINF:-1 tvg-id="persiana.sonnati",Persiana Sonnati
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/persiana.sonnati/chunks.m3u8
+
+#EXTINF:-1 tvg-id="persiana.turkiye",Persiana Turkiye
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/persiana.turkiye/chunks.m3u8
+
+#EXTINF:-1 tvg-id="persiana.kpop",Persiana KPOP
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/persiana.kpop/chunks.m3u8
+
+#EXTINF:-1 tvg-id="persiana.teen",Persiana Teen
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/persiana.teen/chunks.m3u8
+
+#EXTINF:-1 tvg-id="persiana.medical",Persiana Medical
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/persiana.medical/chunks.m3u8
+
+#EXTINF:-1 tvg-id="persiana.travel",Persiana Travel
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/persiana.travel/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.خبر",شبکه خبر
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.خبر/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.یک",شبکه یک
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.یک/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.دو",شبکه دو
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.دو/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.نسیم",شبکه نسیم
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.نسیم/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.تماشا",شبکه تماشا
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.تماشا/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.نمایش",شبکه نمایش
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.نمایش/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.۴",شبکه ۴
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.۴/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.پویا",شبکه پویا
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.پویا/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ifilm.persian.2",iFilm Persian 2
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/ifilm.persian.2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.قرآن",شبکه قرآن
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.قرآن/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.مستند",شبکه مستند
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.مستند/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.خبر.۲",شبکه خبر ۲
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.خبر.۲/chunks.m3u8
+
+#EXTINF:-1 tvg-id="سپهر",سپهر
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/سپهر/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.افق",شبکه افق
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.افق/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.امید",شبکه امید
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.امید/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.آموزش",شبکه آموزش
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.آموزش/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.سلامت",شبکه سلامت
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.سلامت/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.سهند",شبکه سهند
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.سهند/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.اصفهان",شبکه اصفهان
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.اصفهان/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.باران",شبکه باران
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.باران/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.خوزستان",شبکه خوزستان
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.خوزستان/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.کرمان",شبکه کرمان
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.کرمان/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.تبرستان",شبکه تبرستان
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.تبرستان/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.آفتاب",شبکه آفتاب
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.آفتاب/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.فارس",شبکه فارس
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.فارس/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.قزوین",شبکه قزوین
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.قزوین/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.افلاک",شبکه افلاک
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.افلاک/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.آذربایجان.غربی",شبکه آذربایجان غربی
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.آذربایجان.غربی/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.آبادان",شبکه آبادان
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.آبادان/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.تهران",شبکه تهران
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.تهران/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.خراسان.رضوی",شبکه خراسان رضوی
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.خراسان.رضوی/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.کردستان",شبکه کردستان
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.کردستان/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.تابان",شبکه تابان
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.تابان/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.سبلان",شبکه سبلان
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.سبلان/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.خلیج.فارس",شبکه خلیج فارس
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.خلیج.فارس/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.زاگرس",شبکه زاگرس
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.زاگرس/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.نور",شبکه نور
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.نور/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.اشراق",شبکه اشراق
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.اشراق/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.مهاباد",شبکه مهاباد
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.مهاباد/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.گلستان",شبکه گلستان
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.گلستان/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.البرز",شبکه البرز
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.البرز/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.بوشهر",شبکه بوشهر
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.بوشهر/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.هامون",شبکه هامون
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.هامون/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.خاوران",شبکه خاوران
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.خاوران/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.کیش",شبکه کیش
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.کیش/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.اترک",شبکه اترک
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.اترک/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.دنا",شبکه دنا
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.دنا/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.همدان",شبکه همدان
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.همدان/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.ایلام",شبکه ایلام
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.ایلام/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.سمنان",شبکه سمنان
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.سمنان/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.جهان.بین",شبکه جهان بین
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.جهان.بین/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.جهانی.نور",شبکه جهانی نور
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.جهانی.نور/chunks.m3u8
+
+#EXTINF:-1 tvg-id="shabakeh.7",Shabakeh 7
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/shabakeh.7/chunks.m3u8
+
+#EXTINF:-1 tvg-id="kurd.channel",Kurd Channel
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/kurd.channel/chunks.m3u8
+
+#EXTINF:-1 tvg-id="zed.tv",Zed TV
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/zed.tv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="انقلاب.ملی",انقلاب ملی
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/انقلاب.ملی/chunks.m3u8
+
+#EXTINF:-1 tvg-id="پالس.میدیا",پالس‌ میدیا
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/پالس.میدیا/chunks.m3u8
+
+#EXTINF:-1 tvg-id="خبربین",خبربین
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/خبربین/chunks.m3u8
+
+#EXTINF:-1 tvg-id="رادیو.شادی",رادیو شادی
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/رادیو.شادی/chunks.m3u8
+
+#EXTINF:-1 tvg-id="سلطان.موزیک",سلطان موزیک
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/سلطان.موزیک/chunks.m3u8
+
+#EXTINF:-1 tvg-id="iran.independent",Iran Independent
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/iran.independent/chunks.m3u8
+
+#EXTINF:-1 tvg-id="radio.donya",Radio Donya
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/radio.donya/chunks.m3u8
+
+#EXTINF:-1 tvg-id="setareh.tv",Setareh TV
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/setareh.tv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="didaniha",Didaniha
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/didaniha/chunks.m3u8
+
+#EXTINF:-1 tvg-id="az.star.tv",Az Star TV
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/az.star.tv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="tojikiston.tv",Tojikiston TV
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/tojikiston.tv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="dushanbe.tv",Dushanbe TV
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/dushanbe.tv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="waar",Waar
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/waar/chunks.m3u8
+
+#EXTINF:-1 tvg-id="mohabat.tv",Mohabat TV
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/mohabat.tv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="datis.tv",Datis TV
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/datis.tv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="nahade.azadi",Nahade Azadi
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/nahade.azadi/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ekran.movies",Ekran Movies
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/ekran.movies/chunks.m3u8
+
+#EXTINF:-1 tvg-id="zarok.tv",Zarok TV
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/zarok.tv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="تلویزیون.چکاد",تلویزیون چکاد
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/تلویزیون.چکاد/chunks.m3u8
+
+#EXTINF:-1 tvg-id="noor.tv",Noor TV
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/noor.tv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="rta.education",RTA Education
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/rta.education/chunks.m3u8
+
+#EXTINF:-1 tvg-id="afghan.theatre",Afghan Theatre
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/afghan.theatre/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ravi.tv",Ravi TV
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/ravi.tv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="iman.tv",Iman TV
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/iman.tv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="radio.hamrah",Radio Hamrah
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/radio.hamrah/chunks.m3u8
+
