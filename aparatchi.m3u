@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: Aparatchi.com Channels
-# Updated: 2026-03-15 18:30:30
+# Updated: 2026-03-16 01:51:50
 # Channels: 183
 
 #EXTINF:-1 tvg-id="skip.to.main.content",Skip to main content
@@ -773,6 +773,11 @@ https://gg.hls2.xyz/live/شبکه.سمنان/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://gg.hls2.xyz/live/شبکه.جهان.بین/chunks.m3u8
 
+#EXTINF:-1 tvg-id="khalij.tv",Khalij TV
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/khalij.tv/chunks.m3u8
+
 #EXTINF:-1 tvg-id="شبکه.جهانی.نور",شبکه جهانی نور
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -912,9 +917,4 @@ https://gg.hls2.xyz/live/ravi.tv/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://gg.hls2.xyz/live/iman.tv/chunks.m3u8
-
-#EXTINF:-1 tvg-id="radio.hamrah",Radio Hamrah
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://gg.hls2.xyz/live/radio.hamrah/chunks.m3u8
 
