@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: Aparatchi.com Channels
-# Updated: 2026-03-18 06:55:14
+# Updated: 2026-03-18 12:56:25
 # Channels: 183
 
 #EXTINF:-1 tvg-id="skip.to.main.content",Skip to main content
@@ -678,15 +678,15 @@ https://gg.hls2.xyz/live/شبکه.خراسان.رضوی/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://gg.hls2.xyz/live/شبکه.کردستان/chunks.m3u8
 
-#EXTINF:-1 tvg-id="شبکه.تابان",شبکه تابان
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://gg.hls2.xyz/live/شبکه.تابان/chunks.m3u8
-
 #EXTINF:-1 tvg-id="شبکه.سبلان",شبکه سبلان
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://gg.hls2.xyz/live/شبکه.سبلان/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.تابان",شبکه تابان
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.تابان/chunks.m3u8
 
 #EXTINF:-1 tvg-id="شبکه.خلیج.فارس",شبکه خلیج فارس
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/

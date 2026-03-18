@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-18T06:55:14.094720",
+  "generated": "2026-03-18T12:56:25.985193",
   "session_id": null,
   "total_channels": 183,
   "channels": [
@@ -1354,16 +1354,6 @@
       "stream_url": "https://gg.hls2.xyz/live/شبکه.کردستان/chunks.m3u8"
     },
     {
-      "name": "شبکه تابان",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-yazd",
-      "category": "Uncategorized",
-      "logo": null,
-      "tvg_id": "شبکه.تابان",
-      "tvg_name": "شبکه تابان",
-      "tvg_logo": null,
-      "stream_url": "https://gg.hls2.xyz/live/شبکه.تابان/chunks.m3u8"
-    },
-    {
       "name": "شبکه سبلان",
       "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-ardabil",
       "category": "Uncategorized",
@@ -1372,6 +1362,16 @@
       "tvg_name": "شبکه سبلان",
       "tvg_logo": null,
       "stream_url": "https://gg.hls2.xyz/live/شبکه.سبلان/chunks.m3u8"
+    },
+    {
+      "name": "شبکه تابان",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-yazd",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.تابان",
+      "tvg_name": "شبکه تابان",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.تابان/chunks.m3u8"
     },
     {
       "name": "شبکه خلیج فارس",
