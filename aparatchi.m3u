@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: Aparatchi.com Channels
-# Updated: 2026-03-19 01:45:38
+# Updated: 2026-03-19 06:50:44
 # Channels: 183
 
 #EXTINF:-1 tvg-id="skip.to.main.content",Skip to main content
@@ -738,15 +738,15 @@ https://gg.hls2.xyz/live/شبکه.هامون/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://gg.hls2.xyz/live/شبکه.خاوران/chunks.m3u8
 
-#EXTINF:-1 tvg-id="شبکه.کیش",شبکه کیش
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://gg.hls2.xyz/live/شبکه.کیش/chunks.m3u8
-
 #EXTINF:-1 tvg-id="شبکه.اترک",شبکه اترک
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://gg.hls2.xyz/live/شبکه.اترک/chunks.m3u8
+
+#EXTINF:-1 tvg-id="شبکه.کیش",شبکه کیش
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/شبکه.کیش/chunks.m3u8
 
 #EXTINF:-1 tvg-id="شبکه.دنا",شبکه دنا
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
