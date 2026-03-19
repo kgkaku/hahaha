@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-19T12:49:19.816453",
+  "generated": "2026-03-19T18:48:15.987408",
   "session_id": null,
   "total_channels": 183,
   "channels": [
@@ -1474,16 +1474,6 @@
       "stream_url": "https://gg.hls2.xyz/live/شبکه.خاوران/chunks.m3u8"
     },
     {
-      "name": "شبکه اترک",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-khorasan-shomali",
-      "category": "Uncategorized",
-      "logo": null,
-      "tvg_id": "شبکه.اترک",
-      "tvg_name": "شبکه اترک",
-      "tvg_logo": null,
-      "stream_url": "https://gg.hls2.xyz/live/شبکه.اترک/chunks.m3u8"
-    },
-    {
       "name": "شبکه کیش",
       "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-kish",
       "category": "Uncategorized",
@@ -1492,6 +1482,16 @@
       "tvg_name": "شبکه کیش",
       "tvg_logo": null,
       "stream_url": "https://gg.hls2.xyz/live/شبکه.کیش/chunks.m3u8"
+    },
+    {
+      "name": "شبکه اترک",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-ostani-tv/irib-khorasan-shomali",
+      "category": "Uncategorized",
+      "logo": null,
+      "tvg_id": "شبکه.اترک",
+      "tvg_name": "شبکه اترک",
+      "tvg_logo": null,
+      "stream_url": "https://gg.hls2.xyz/live/شبکه.اترک/chunks.m3u8"
     },
     {
       "name": "شبکه دنا",
