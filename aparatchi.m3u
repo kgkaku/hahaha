@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: Aparatchi.com Channels
-# Updated: 2026-03-20 01:27:39
+# Updated: 2026-03-20 06:45:43
 # Channels: 183
 
 #EXTINF:-1 tvg-id="skip.to.main.content",Skip to main content
@@ -773,6 +773,11 @@ https://gg.hls2.xyz/live/شبکه.سمنان/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://gg.hls2.xyz/live/شبکه.جهان.بین/chunks.m3u8
 
+#EXTINF:-1 tvg-id="ملیگرایان.مردمگرا",ملی‌گرایان مردم‌گرا
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gg.hls2.xyz/live/ملیگرایان.مردمگرا/chunks.m3u8
+
 #EXTINF:-1 tvg-id="khalij.tv",Khalij TV
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -912,9 +917,4 @@ https://gg.hls2.xyz/live/afghan.theatre/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://gg.hls2.xyz/live/ravi.tv/chunks.m3u8
-
-#EXTINF:-1 tvg-id="iman.tv",Iman TV
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://gg.hls2.xyz/live/iman.tv/chunks.m3u8
 
